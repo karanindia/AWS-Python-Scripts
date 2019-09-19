@@ -1,5 +1,5 @@
 Automate EC2 Snap restore operation
-This Script will be used for automation AWS snap restore operation. This is created by suddhasil Sarkar(suddhasil.sarkar@accenture.com)
+This Script will be used for automation AWS snap restore operation. This is created by suddhasil Sarkar(suddhya11@gmail.com)
 this script can be used in any AWS environment where TAG is well implemented for services like instance, EBS volumes and snapshots
  At a glance the functionality of this script as is follows..
  1. Script is written in python 3.7.4 , it is required boto3 module to be configured and connection with AWS account a must need
